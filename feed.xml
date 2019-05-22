@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Your Type</title>
-    <link href="https://loganmccaul.github.io/your-type/index.html/feed.xml" rel="self" />
-    <link href="https://loganmccaul.github.io/your-type/index.html" />
-    <updated>2019-05-21T21:57:49-05:00</updated>
+    <link href="/feed.xml" rel="self" />
+    <link href="" />
+    <updated>2019-05-21T21:59:07-05:00</updated>
     <author>
         <name>Logan McCaul</name>
     </author>
-    <id>https://loganmccaul.github.io/your-type/index.html</id>
+    <id></id>
 
     <entry>
         <title>Universities</title>
         <author>
             <name>Logan McCaul</name>
         </author>
-        <link href="https://loganmccaul.github.io/your-type/index.html/universities/index.html"/>
-        <id>https://loganmccaul.github.io/your-type/index.html/universities/index.html</id>
+        <link href="/universities/index.html"/>
+        <id>/universities/index.html</id>
 
         <updated>2019-05-20T21:42:59-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://loganmccaul.github.io/your-type/index.html/media/posts/1/5bfdfc5eecaab475dec731f6_smumn04-p-2000.jpeg" alt="" />
+                        <img src="/media/posts/1/5bfdfc5eecaab475dec731f6_smumn04-p-2000.jpeg" alt="" />
                      Imagine your school's name in giant, 3-D letters at sporting events, graduations,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://loganmccaul.github.io/your-type/index.html/media/posts/1/5bfdfc5eecaab475dec731f6_smumn04-p-2000.jpeg" alt="" />
+                    <img src="/media/posts/1/5bfdfc5eecaab475dec731f6_smumn04-p-2000.jpeg" alt="" />
                 <h1 id="w-node-1c6524d10404-a87870e1" class="h1_bold"> </h1>
 <p id="w-node-1e5c38384525-a87870e1">Imagine your school's name in giant, 3-D letters at sporting events, graduations, class reunions, faculty dinners, and more. Boost school-spirit and create immediate brand recognition in person and in social media.</p>
 <div class="gallery"   >
-<figure class="gallery__item"><a href="https://loganmccaul.github.io/your-type/index.html/media/posts/1/gallery/5bf829614ae342b35f821853_Western-p-500.jpeg" ><img src="https://loganmccaul.github.io/your-type/index.html/media/posts/1/gallery/5bf829614ae342b35f821853_Western-p-500-thumbnail.jpeg" alt="" width="768" height="548"></a></figure>
-<figure class="gallery__item"><a href="https://loganmccaul.github.io/your-type/index.html/media/posts/1/gallery/5bfdfc5bf34f6d203848731a_smumn02-p-500.jpeg" ><img src="https://loganmccaul.github.io/your-type/index.html/media/posts/1/gallery/5bfdfc5bf34f6d203848731a_smumn02-p-500-thumbnail.jpeg" alt="" width="768" height="548"></a></figure>
-<figure class="gallery__item"><a href="https://loganmccaul.github.io/your-type/index.html/media/posts/1/gallery/5bfdfc5eecaab475dec731f6_smumn04-p-2000.jpeg" ><img src="https://loganmccaul.github.io/your-type/index.html/media/posts/1/gallery/5bfdfc5eecaab475dec731f6_smumn04-p-2000-thumbnail.jpeg" alt="" width="768" height="549"></a></figure>
-<figure class="gallery__item"><a href="https://loganmccaul.github.io/your-type/index.html/media/posts/1/gallery/5bfdfc5ef34f6d6d1f48731b_smumn03-p-500.jpeg" ><img src="https://loganmccaul.github.io/your-type/index.html/media/posts/1/gallery/5bfdfc5ef34f6d6d1f48731b_smumn03-p-500-thumbnail.jpeg" alt="" width="768" height="548"></a></figure>
-<figure class="gallery__item"><a href="https://loganmccaul.github.io/your-type/index.html/media/posts/1/gallery/5bfdfc6dc7e7c2081b6e9789_western01-p-1080-1.jpeg" ><img src="https://loganmccaul.github.io/your-type/index.html/media/posts/1/gallery/5bfdfc6dc7e7c2081b6e9789_western01-p-1080-1-thumbnail.jpeg" alt="" width="768" height="549"></a></figure>
-<figure class="gallery__item"><a href="https://loganmccaul.github.io/your-type/index.html/media/posts/1/gallery/5bfdfc6dc7e7c2081b6e9789_western01-p-1080.jpeg" ><img src="https://loganmccaul.github.io/your-type/index.html/media/posts/1/gallery/5bfdfc6dc7e7c2081b6e9789_western01-p-1080-thumbnail.jpeg" alt="" width="768" height="549"></a></figure>
-<figure class="gallery__item"><a href="https://loganmccaul.github.io/your-type/index.html/media/posts/1/gallery/5bfdfc611791710b49933236_smumn05-p-500.jpeg" ><img src="https://loganmccaul.github.io/your-type/index.html/media/posts/1/gallery/5bfdfc611791710b49933236_smumn05-p-500-thumbnail.jpeg" alt="" width="768" height="548"></a></figure>
-<figure class="gallery__item"><a href="https://loganmccaul.github.io/your-type/index.html/media/posts/1/gallery/5c02f0792442a66d7d298a06_IMG_5223_200px-p-500.jpeg" ><img src="https://loganmccaul.github.io/your-type/index.html/media/posts/1/gallery/5c02f0792442a66d7d298a06_IMG_5223_200px-p-500-thumbnail.jpeg" alt="" width="768" height="548"></a></figure>
+<figure class="gallery__item"><a href="/media/posts/1/gallery/5bf829614ae342b35f821853_Western-p-500.jpeg" ><img src="/media/posts/1/gallery/5bf829614ae342b35f821853_Western-p-500-thumbnail.jpeg" alt="" width="768" height="548"></a></figure>
+<figure class="gallery__item"><a href="/media/posts/1/gallery/5bfdfc5bf34f6d203848731a_smumn02-p-500.jpeg" ><img src="/media/posts/1/gallery/5bfdfc5bf34f6d203848731a_smumn02-p-500-thumbnail.jpeg" alt="" width="768" height="548"></a></figure>
+<figure class="gallery__item"><a href="/media/posts/1/gallery/5bfdfc5eecaab475dec731f6_smumn04-p-2000.jpeg" ><img src="/media/posts/1/gallery/5bfdfc5eecaab475dec731f6_smumn04-p-2000-thumbnail.jpeg" alt="" width="768" height="549"></a></figure>
+<figure class="gallery__item"><a href="/media/posts/1/gallery/5bfdfc5ef34f6d6d1f48731b_smumn03-p-500.jpeg" ><img src="/media/posts/1/gallery/5bfdfc5ef34f6d6d1f48731b_smumn03-p-500-thumbnail.jpeg" alt="" width="768" height="548"></a></figure>
+<figure class="gallery__item"><a href="/media/posts/1/gallery/5bfdfc6dc7e7c2081b6e9789_western01-p-1080-1.jpeg" ><img src="/media/posts/1/gallery/5bfdfc6dc7e7c2081b6e9789_western01-p-1080-1-thumbnail.jpeg" alt="" width="768" height="549"></a></figure>
+<figure class="gallery__item"><a href="/media/posts/1/gallery/5bfdfc6dc7e7c2081b6e9789_western01-p-1080.jpeg" ><img src="/media/posts/1/gallery/5bfdfc6dc7e7c2081b6e9789_western01-p-1080-thumbnail.jpeg" alt="" width="768" height="549"></a></figure>
+<figure class="gallery__item"><a href="/media/posts/1/gallery/5bfdfc611791710b49933236_smumn05-p-500.jpeg" ><img src="/media/posts/1/gallery/5bfdfc611791710b49933236_smumn05-p-500-thumbnail.jpeg" alt="" width="768" height="548"></a></figure>
+<figure class="gallery__item"><a href="/media/posts/1/gallery/5c02f0792442a66d7d298a06_IMG_5223_200px-p-500.jpeg" ><img src="/media/posts/1/gallery/5c02f0792442a66d7d298a06_IMG_5223_200px-p-500-thumbnail.jpeg" alt="" width="768" height="548"></a></figure>
 </div>
 <h1 id="w-node-1c6524d10404-a87870e1" class="h1_bold"> </h1>
             ]]>
