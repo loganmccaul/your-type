@@ -2,21 +2,21 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Your Type",
     "description": "",
-    "home_page_url": "http://www.your-type.com",
-    "feed_url": "http://www.your-type.com/feed.json",
+    "home_page_url": "https://www.your-type.com",
+    "feed_url": "https://www.your-type.com/feed.json",
     "user_comment": "",
-    "icon": "http://www.your-type.com/media/website/61580750-d08ced80-aada-11e9-922d-a9677aaa9946.png",
+    "icon": "https://www.your-type.com/media/website/61580750-d08ced80-aada-11e9-922d-a9677aaa9946.png",
     "author": {
         "name": "Logan McCaul"
     },
     "items": [
         {
-            "id": "http://www.your-type.com/weddings/index.html",
-            "url": "http://www.your-type.com/weddings/index.html",
+            "id": "https://www.your-type.com/weddings/index.html",
+            "url": "https://www.your-type.com/weddings/index.html",
             "title": "Weddings",
             "summary": "Celebrate your big day with big letters! These letters make a great&hellip;",
             "content_html": "<p id=\"w-node-0d9fe8b8a39f-73acc76d\" class=\"_400---normal-16px---black\">Celebrate your big day with big letters! These letters make a great backdrop to a photo booth and welcoming guests to your location. A unique touch to your wedding day decoration. Your-Type lettering.</p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bf8387d512cb0e388116706_Hergetwedding-141.jpg\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bf8398d4ae342574f82255b_IMG_4682.JPG\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bf839b2cc327d5ed39ca951_2059_3305241.JPG\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bf839c7d8f1e345c96af763_1538_3305241.JPG\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bf839e10627e7e8c7fab3c5_28577514_10155142853246813_9146528491415258499_n.jpg\"></p>",
-            "image": "http://www.your-type.com/media/posts/10/5bf837b7d8f1e3eb436af6e5_Hergetwedding-320-p-2000.jpeg",
+            "image": "https://www.your-type.com/media/posts/10/5bf837b7d8f1e3eb436af6e5_Hergetwedding-320-p-2000.jpeg",
             "author": {
                 "name": "Logan McCaul"
             },
@@ -26,12 +26,12 @@
             "date_modified": "2019-07-09T21:33:08-05:00"
         },
         {
-            "id": "http://www.your-type.com/fundraisers-and-activism/index.html",
-            "url": "http://www.your-type.com/fundraisers-and-activism/index.html",
+            "id": "https://www.your-type.com/fundraisers-and-activism/index.html",
+            "url": "https://www.your-type.com/fundraisers-and-activism/index.html",
             "title": "Fundraisers &amp; Activism",
             "summary": "Create an energizing feel at a fundraising or activist event and let&hellip;",
             "content_html": "<p id=\"w-node-ef13478a9062-6ea8a4ba\" class=\"_400---normal-16px---black\">Create an energizing feel at a fundraising or activist event and let your message be seen from a distance. Let the size of giant, 3-D letters carry your message for you and create a space to have your audience participate with a mission.</p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bf83bebd8f1e33f256af928_33854859_195797631049967_720599120317775872_o%20(1).jpg\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bfff4af36a850894a7337e7_bigbikes1807.jpg\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bfff4ae201cb17ddc710baf_bigbikes1806.jpg\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bf78688fad79d8285d4ca57_enough01.jpg\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bfff4c536a85043da733802_wya.jpg\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bffffd0d9549d362e14c52d_enoughcapital.jpg\"></p>\n<p> </p>",
-            "image": "http://www.your-type.com/media/posts/9/5bfdfc599cbe2d2c24ecaf20_SKOLk902-p-2000.jpeg",
+            "image": "https://www.your-type.com/media/posts/9/5bfdfc599cbe2d2c24ecaf20_SKOLk902-p-2000.jpeg",
             "author": {
                 "name": "Logan McCaul"
             },
@@ -41,12 +41,12 @@
             "date_modified": "2019-07-09T21:36:36-05:00"
         },
         {
-            "id": "http://www.your-type.com/festivals/index.html",
-            "url": "http://www.your-type.com/festivals/index.html",
+            "id": "https://www.your-type.com/festivals/index.html",
+            "url": "https://www.your-type.com/festivals/index.html",
             "title": "Festivals",
             "summary": "Create focal points at festivals for any type of fun - food,&hellip;",
             "content_html": "<p id=\"w-node-9ca12a278ed4-247895b7\" class=\"_400---normal-16px---black\">Create focal points at festivals for any type of fun - food, beverage, film, music, and so many others. These giant, 3-D letters stand out drawing attendees' attention and act as a unifier on social media.</p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bf7845c4ae342528d81b7fe_00242.jpg\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bf78787cc327da5939c265b_IMG_5192.JPG\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bf7871bd8f1e32f876a78ee_00237%20copy.jpg\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bfff4bfdb1f717a1425763d_weird.jpg\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5c000d2b73c946eefa3c4fc1_boom01.jpg\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5c000d8c1b8b788fd1ace3fd_glow.jpg\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5c000f1837bb3007fec02729_boom02.jpg\"></p>",
-            "image": "http://www.your-type.com/media/posts/8/5bf7871bd8f1e32f876a78ee_00237-copy-p-2000.jpeg",
+            "image": "https://www.your-type.com/media/posts/8/5bf7871bd8f1e32f876a78ee_00237-copy-p-2000.jpeg",
             "author": {
                 "name": "Logan McCaul"
             },
@@ -56,12 +56,12 @@
             "date_modified": "2019-06-22T17:44:43-05:00"
         },
         {
-            "id": "http://www.your-type.com/trade-shows/index.html",
-            "url": "http://www.your-type.com/trade-shows/index.html",
+            "id": "https://www.your-type.com/trade-shows/index.html",
+            "url": "https://www.your-type.com/trade-shows/index.html",
             "title": "Trade Shows",
             "summary": "With everyone trying to do everything possible to draw people to their&hellip;",
             "content_html": "<p id=\"w-node-9b373fef4625-b77895d7\" class=\"paragraph_14px-2\">With everyone trying to do everything possible to draw people to their booth or event, our giant, 3-D letters are proven to be a magnet to draw crowds in and stand out among all that is going on.</p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bfff4a26a9973ebd45fa28e_4fun.jpg\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bfff4bfdb1f717a1425763d_weird.jpg\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bfdfc6df34f6d73dd48731d_Welcome.jpg\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bfdfc49254faec5bd5d0a59_%23vc18.jpg\"></p>",
-            "image": "http://www.your-type.com/media/posts/7/5bfdfc49254faec5bd5d0a59_vc18-p-2000.jpeg",
+            "image": "https://www.your-type.com/media/posts/7/5bfdfc49254faec5bd5d0a59_vc18-p-2000.jpeg",
             "author": {
                 "name": "Logan McCaul"
             },
@@ -71,12 +71,12 @@
             "date_modified": "2019-05-29T21:07:25-05:00"
         },
         {
-            "id": "http://www.your-type.com/sporting/index.html",
-            "url": "http://www.your-type.com/sporting/index.html",
+            "id": "https://www.your-type.com/sporting/index.html",
+            "url": "https://www.your-type.com/sporting/index.html",
             "title": "Sporting",
             "summary": "Fans &amp; alumni love supporting their teams. Create a space that welcomes&hellip;",
             "content_html": "<p id=\"w-node-8d71dde88491-c39c1446\" class=\"paragraph_14px-2\">Fans &amp; alumni love supporting their teams. Create a space that welcomes fans to capture that type of photo that shows their team's spirit and welcome athletes!</p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bfff4bd36a850e8457337f7_gowarriors01.jpg\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bfdfc64946445455c32ddd2_warriors03.jpg\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bfdfc62f34f6d8d6248731c_warriors01.jpg\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bfdfc6e865baf625983ed7a_XIPredcarpet.jpg\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bfff4bb01e756341225f7c8_gowarriors02.jpg\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bfdfc63865baf3cb583ed74_warriors02.jpg\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bffe08efd926f1ffe059bfa_xip01.jpg\"></p>",
-            "image": "http://www.your-type.com/media/posts/6/5bffe08efd926f1ffe059bfa_xip01-p-2000.jpeg",
+            "image": "https://www.your-type.com/media/posts/6/5bffe08efd926f1ffe059bfa_xip01-p-2000.jpeg",
             "author": {
                 "name": "Logan McCaul"
             },
@@ -86,12 +86,12 @@
             "date_modified": "2019-05-29T21:06:21-05:00"
         },
         {
-            "id": "http://www.your-type.com/corporations/index.html",
-            "url": "http://www.your-type.com/corporations/index.html",
+            "id": "https://www.your-type.com/corporations/index.html",
+            "url": "https://www.your-type.com/corporations/index.html",
             "title": "Corporations",
             "summary": "Perfect for important meetings, special or annual events, and incentive programs for&hellip;",
             "content_html": "<p id=\"w-node-1a6d2f105de5-feacc74b\" class=\"_400---normal-16px---black\">Perfect for important meetings, special or annual events, and incentive programs for companies and corporations. Increase participation by attracting guests with giant, 3-D letters.</p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bfdfc689464451b4532ddd3_wcbt01.jpg\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bfdfc697ffa1b89438e90a8_wcbt02.jpg\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bfff4bfdb1f717a1425763d_weird.jpg\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bfffb343e2311e6538a8ea2_customunveiled01.jpg\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bf835b0d8f1e329396af65c_Custom%20UNVEILED%20event.jpg\"></p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bfdfc4e9464459c4d32ddc4_amp01.jpg\"></p>",
-            "image": "http://www.your-type.com/media/posts/5/5bfff4a236a85035897337d8_TXWEP-p-2000.jpeg",
+            "image": "https://www.your-type.com/media/posts/5/5bfff4a236a85035897337d8_TXWEP-p-2000.jpeg",
             "author": {
                 "name": "Logan McCaul"
             },
@@ -101,12 +101,12 @@
             "date_modified": "2019-05-29T21:04:51-05:00"
         },
         {
-            "id": "http://www.your-type.com/tourism/index.html",
-            "url": "http://www.your-type.com/tourism/index.html",
+            "id": "https://www.your-type.com/tourism/index.html",
+            "url": "https://www.your-type.com/tourism/index.html",
             "title": "Tourism",
             "summary": "‍Call attention to community events, annual celebrations, and established landmarks for any&hellip;",
-            "content_html": "<p id=\"w-node-bd9e050e361a-5b6a66de\" class=\"_400---normal-16px---black\">‍Call attention to community events, annual celebrations, and established landmarks for any town or city.</p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bf83b0bfad79d221cd54605_Winona%2002.jpg\"></p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"http://www.your-type.com/media/posts/4/gallery/5bfff4be1df1ce2a34be7c35_winonarts01-p-1080.jpeg\" ><img src=\"http://www.your-type.com/media/posts/4/gallery/5bfff4be1df1ce2a34be7c35_winonarts01-p-1080-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"549\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://www.your-type.com/media/posts/4/gallery/5bfff652388b815326ff92b1_winonarts02-p-500.jpeg\" ><img src=\"http://www.your-type.com/media/posts/4/gallery/5bfff652388b815326ff92b1_winonarts02-p-500-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"548\"></a></figure>\n</div>\n<p> </p>\n<h1 id=\"w-node-bd9e050e3626-5b6a66de\" class=\"h1_bold\">Our clients</h1>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"http://www.your-type.com/media/posts/4/gallery/5bfff7d3d9549d77d014b262_winonamnlogo-p-500.jpeg\" ><img src=\"http://www.your-type.com/media/posts/4/gallery/5bfff7d3d9549d77d014b262_winonamnlogo-p-500-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"548\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://www.your-type.com/media/posts/4/gallery/5bfff84737bb30ee40c010d8_alton-main-street.jpg\" ><img src=\"http://www.your-type.com/media/posts/4/gallery/5bfff84737bb30ee40c010d8_alton-main-street-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://www.your-type.com/media/posts/4/gallery/5bfff8abdaf9c9f204814cb3_map_of_alton_il.jpg\" ><img src=\"http://www.your-type.com/media/posts/4/gallery/5bfff8abdaf9c9f204814cb3_map_of_alton_il-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1052\"></a></figure>\n</div>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bfdfc48f34f6df8a648730b_altongirl%26group.jpg\"></p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"http://www.your-type.com/media/posts/4/gallery/5bfdfc481c79457705bde98c_altoncar-p-1080.jpeg\" ><img src=\"http://www.your-type.com/media/posts/4/gallery/5bfdfc481c79457705bde98c_altoncar-p-1080-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"549\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://www.your-type.com/media/posts/4/gallery/5bfdfc487ffa1bd84f8e908e_altongirlinside-p-1080.jpeg\" ><img src=\"http://www.your-type.com/media/posts/4/gallery/5bfdfc487ffa1bd84f8e908e_altongirlinside-p-1080-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"549\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://www.your-type.com/media/posts/4/gallery/5bfff735daf9c9dd01814c0e_altonjump-p-500.jpeg\" ><img src=\"http://www.your-type.com/media/posts/4/gallery/5bfff735daf9c9dd01814c0e_altonjump-p-500-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"548\"></a></figure>\n</div>",
-            "image": "http://www.your-type.com/media/posts/4/5bfff4c5201cb1563a710bbf_winonawshsgirlswim-p-2000.jpeg",
+            "content_html": "<p id=\"w-node-bd9e050e361a-5b6a66de\" class=\"_400---normal-16px---black\">‍Call attention to community events, annual celebrations, and established landmarks for any town or city.</p>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bf83b0bfad79d221cd54605_Winona%2002.jpg\"></p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://www.your-type.com/media/posts/4/gallery/5bfff4be1df1ce2a34be7c35_winonarts01-p-1080.jpeg\" ><img src=\"https://www.your-type.com/media/posts/4/gallery/5bfff4be1df1ce2a34be7c35_winonarts01-p-1080-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"549\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.your-type.com/media/posts/4/gallery/5bfff652388b815326ff92b1_winonarts02-p-500.jpeg\" ><img src=\"https://www.your-type.com/media/posts/4/gallery/5bfff652388b815326ff92b1_winonarts02-p-500-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"548\"></a></figure>\n</div>\n<p> </p>\n<h1 id=\"w-node-bd9e050e3626-5b6a66de\" class=\"h1_bold\">Our clients</h1>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://www.your-type.com/media/posts/4/gallery/5bfff7d3d9549d77d014b262_winonamnlogo-p-500.jpeg\" ><img src=\"https://www.your-type.com/media/posts/4/gallery/5bfff7d3d9549d77d014b262_winonamnlogo-p-500-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"548\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.your-type.com/media/posts/4/gallery/5bfff84737bb30ee40c010d8_alton-main-street.jpg\" ><img src=\"https://www.your-type.com/media/posts/4/gallery/5bfff84737bb30ee40c010d8_alton-main-street-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.your-type.com/media/posts/4/gallery/5bfff8abdaf9c9f204814cb3_map_of_alton_il.jpg\" ><img src=\"https://www.your-type.com/media/posts/4/gallery/5bfff8abdaf9c9f204814cb3_map_of_alton_il-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1052\"></a></figure>\n</div>\n<p><img src=\"https://uploads-ssl.webflow.com/5b42b08d797097d6c420e4d0/5bfdfc48f34f6df8a648730b_altongirl%26group.jpg\"></p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://www.your-type.com/media/posts/4/gallery/5bfdfc481c79457705bde98c_altoncar-p-1080.jpeg\" ><img src=\"https://www.your-type.com/media/posts/4/gallery/5bfdfc481c79457705bde98c_altoncar-p-1080-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"549\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.your-type.com/media/posts/4/gallery/5bfdfc487ffa1bd84f8e908e_altongirlinside-p-1080.jpeg\" ><img src=\"https://www.your-type.com/media/posts/4/gallery/5bfdfc487ffa1bd84f8e908e_altongirlinside-p-1080-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"549\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.your-type.com/media/posts/4/gallery/5bfff735daf9c9dd01814c0e_altonjump-p-500.jpeg\" ><img src=\"https://www.your-type.com/media/posts/4/gallery/5bfff735daf9c9dd01814c0e_altonjump-p-500-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"548\"></a></figure>\n</div>",
+            "image": "https://www.your-type.com/media/posts/4/5bfff4c5201cb1563a710bbf_winonawshsgirlswim-p-2000.jpeg",
             "author": {
                 "name": "Logan McCaul"
             },
@@ -116,12 +116,12 @@
             "date_modified": "2019-05-29T21:03:10-05:00"
         },
         {
-            "id": "http://www.your-type.com/universities/index.html",
-            "url": "http://www.your-type.com/universities/index.html",
+            "id": "https://www.your-type.com/universities/index.html",
+            "url": "https://www.your-type.com/universities/index.html",
             "title": "Universities",
             "summary": " Imagine your school's name in giant, 3-D letters at sporting events, graduations,&hellip;",
-            "content_html": "<h1 id=\"w-node-1c6524d10404-a87870e1\" class=\"h1_bold\"> </h1>\n<p id=\"w-node-1e5c38384525-a87870e1\">Imagine your school's name in giant, 3-D letters at sporting events, graduations, class reunions, faculty dinners, and more. Boost school-spirit and create immediate brand recognition in person and in social media.</p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"http://www.your-type.com/media/posts/1/gallery/5bf829614ae342b35f821853_Western-p-500.jpeg\" ><img src=\"http://www.your-type.com/media/posts/1/gallery/5bf829614ae342b35f821853_Western-p-500-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"548\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://www.your-type.com/media/posts/1/gallery/5bfdfc5bf34f6d203848731a_smumn02-p-500.jpeg\" ><img src=\"http://www.your-type.com/media/posts/1/gallery/5bfdfc5bf34f6d203848731a_smumn02-p-500-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"548\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://www.your-type.com/media/posts/1/gallery/5bfdfc5eecaab475dec731f6_smumn04-p-2000.jpeg\" ><img src=\"http://www.your-type.com/media/posts/1/gallery/5bfdfc5eecaab475dec731f6_smumn04-p-2000-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"549\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://www.your-type.com/media/posts/1/gallery/5bfdfc5ef34f6d6d1f48731b_smumn03-p-500.jpeg\" ><img src=\"http://www.your-type.com/media/posts/1/gallery/5bfdfc5ef34f6d6d1f48731b_smumn03-p-500-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"548\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://www.your-type.com/media/posts/1/gallery/5bfdfc6dc7e7c2081b6e9789_western01-p-1080-1.jpeg\" ><img src=\"http://www.your-type.com/media/posts/1/gallery/5bfdfc6dc7e7c2081b6e9789_western01-p-1080-1-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"549\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://www.your-type.com/media/posts/1/gallery/5bfdfc6dc7e7c2081b6e9789_western01-p-1080.jpeg\" ><img src=\"http://www.your-type.com/media/posts/1/gallery/5bfdfc6dc7e7c2081b6e9789_western01-p-1080-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"549\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://www.your-type.com/media/posts/1/gallery/5bfdfc611791710b49933236_smumn05-p-500.jpeg\" ><img src=\"http://www.your-type.com/media/posts/1/gallery/5bfdfc611791710b49933236_smumn05-p-500-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"548\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://www.your-type.com/media/posts/1/gallery/5c02f0792442a66d7d298a06_IMG_5223_200px-p-500.jpeg\" ><img src=\"http://www.your-type.com/media/posts/1/gallery/5c02f0792442a66d7d298a06_IMG_5223_200px-p-500-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"548\"></a></figure>\n</div>\n<h1 id=\"w-node-1c6524d10404-a87870e1\" class=\"h1_bold\"> </h1>",
-            "image": "http://www.your-type.com/media/posts/1/5bfdfc5eecaab475dec731f6_smumn04-p-2000.jpeg",
+            "content_html": "<h1 id=\"w-node-1c6524d10404-a87870e1\" class=\"h1_bold\"> </h1>\n<p id=\"w-node-1e5c38384525-a87870e1\">Imagine your school's name in giant, 3-D letters at sporting events, graduations, class reunions, faculty dinners, and more. Boost school-spirit and create immediate brand recognition in person and in social media.</p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://www.your-type.com/media/posts/1/gallery/5bf829614ae342b35f821853_Western-p-500.jpeg\" ><img src=\"https://www.your-type.com/media/posts/1/gallery/5bf829614ae342b35f821853_Western-p-500-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"548\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.your-type.com/media/posts/1/gallery/5bfdfc5bf34f6d203848731a_smumn02-p-500.jpeg\" ><img src=\"https://www.your-type.com/media/posts/1/gallery/5bfdfc5bf34f6d203848731a_smumn02-p-500-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"548\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.your-type.com/media/posts/1/gallery/5bfdfc5eecaab475dec731f6_smumn04-p-2000.jpeg\" ><img src=\"https://www.your-type.com/media/posts/1/gallery/5bfdfc5eecaab475dec731f6_smumn04-p-2000-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"549\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.your-type.com/media/posts/1/gallery/5bfdfc5ef34f6d6d1f48731b_smumn03-p-500.jpeg\" ><img src=\"https://www.your-type.com/media/posts/1/gallery/5bfdfc5ef34f6d6d1f48731b_smumn03-p-500-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"548\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.your-type.com/media/posts/1/gallery/5bfdfc6dc7e7c2081b6e9789_western01-p-1080-1.jpeg\" ><img src=\"https://www.your-type.com/media/posts/1/gallery/5bfdfc6dc7e7c2081b6e9789_western01-p-1080-1-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"549\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.your-type.com/media/posts/1/gallery/5bfdfc6dc7e7c2081b6e9789_western01-p-1080.jpeg\" ><img src=\"https://www.your-type.com/media/posts/1/gallery/5bfdfc6dc7e7c2081b6e9789_western01-p-1080-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"549\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.your-type.com/media/posts/1/gallery/5bfdfc611791710b49933236_smumn05-p-500.jpeg\" ><img src=\"https://www.your-type.com/media/posts/1/gallery/5bfdfc611791710b49933236_smumn05-p-500-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"548\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.your-type.com/media/posts/1/gallery/5c02f0792442a66d7d298a06_IMG_5223_200px-p-500.jpeg\" ><img src=\"https://www.your-type.com/media/posts/1/gallery/5c02f0792442a66d7d298a06_IMG_5223_200px-p-500-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"548\"></a></figure>\n</div>\n<h1 id=\"w-node-1c6524d10404-a87870e1\" class=\"h1_bold\"> </h1>",
+            "image": "https://www.your-type.com/media/posts/1/5bfdfc5eecaab475dec731f6_smumn04-p-2000.jpeg",
             "author": {
                 "name": "Logan McCaul"
             },
