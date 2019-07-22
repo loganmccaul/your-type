@@ -1981,13 +1981,13 @@ textarea {
 
 .cs--testimonials__left-arrow {
   transform: rotate(-135deg) translate(50%, 50%);
-  left: 1rem;
+  left: 0;
   top: 50%;
 }
 
 .cs--testimonials__right-arrow {
   transform: rotate(45deg) translate(-50%, -50%);
-  right: 1rem;
+  right: 0;
   top: 50%;
 }
 
