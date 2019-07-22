@@ -1877,10 +1877,6 @@ textarea {
   opacity: 0;
 }
 
-.cs--no-display {
-  display: none;
-}
-
 .cs--banner {
   background: linear-gradient(to right, #6236ff, #ff8763);
   padding: .5rem 1.5rem;
@@ -1966,8 +1962,40 @@ textarea {
   font-weight: 500;
   padding: 0 10%;
   position: relative;
+  margin-top: 6rem;
 }
 
+.cs--testimonials__left-arrow, .cs--testimonials__right-arrow {
+  content: '';
+  position: absolute;
+  border: 4px solid #252533;
+  border-bottom: transparent;
+  border-left: transparent;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.cs--testimonials__left-arrow:hover, .cs--testimonials__right-arrow:hover {
+  cursor: pointer;
+}
+
+.cs--testimonials__left-arrow {
+  transform: rotate(-135deg) translate(50%, 50%);
+  left: 1rem;
+  top: 50%;
+}
+
+.cs--testimonials__right-arrow {
+  transform: rotate(45deg) translate(-50%, -50%);
+  right: 1rem;
+  top: 50%;
+}
+
+.cs--testimonials__container {
+  position: relative;
+  height: 343px;
+  overflow: hidden;
+}
 
 .cs--testimonials h3, .cs--testimonials h4 {
   font-size: 1.25rem;
@@ -1988,5 +2016,26 @@ textarea {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+  width: 100%;
+  position: absolute;
+  transition: all 400ms ease-out;
+  transform: translate(0, 0);
+  visibility: visible;
 }
+
+
+.cs--testimonial__right {
+  visibility: hidden;
+  transform: translate(100%, 0);
+}
+
+.cs--testimonial__left {
+  visibility: hidden;
+  transform: translate(-100%, 0);
+}
+
+.cs--no-display {
+  display: none;
+}
+
 /*# sourceMappingURL=main.css.map */
