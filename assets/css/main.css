@@ -2091,6 +2091,7 @@ textarea {
 .cs--price__details {
   margin: 0 3rem;
   font-size: 1.125rem;
+  width: 300px;
 }
 
 .cs--price__details h3 {
