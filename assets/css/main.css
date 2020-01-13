@@ -1990,6 +1990,14 @@ textarea {
   overflow: hidden;
 }
 
+@media screen and (max-width: 1465px) {
+  .cs--testimonials__container {
+    position: relative;
+    height: 686px;
+    overflow: hidden;
+  }
+}
+
 .cs--testimonials h3, .cs--testimonials h4 {
   font-size: 1.25rem;
   font-weight: 500;
@@ -2006,7 +2014,7 @@ textarea {
 }
 
 .cs--testimonial {
-  display: flex;
+  display: none;
   justify-content: space-between;
   flex-wrap: wrap;
   width: 100%;
@@ -2014,6 +2022,10 @@ textarea {
   transition: all 400ms ease-out;
   transform: translate(0, 0);
   visibility: visible;
+}
+
+.cs--testimonial.cs--active {
+  display: flex;
 }
 
 
