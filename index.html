@@ -130,6 +130,15 @@
                var form = document.getElementById('email-form');
                var submit = document.getElementById('submit');
            
+               if (gtag) {
+                 gtag('event', 'submit', {
+                   'event_category': 'contact',
+                   'event_label': 'email',
+                   'value': email
+                 });
+                 window.dataLayer && window.dataLayer.push();
+               }
+           
                errorNotification.classList.add('cs--hidden');
            
                function error() {
